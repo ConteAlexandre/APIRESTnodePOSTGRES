@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-fileupload": "^1.1.5",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "express-validator": "^6.0.1",
     "filereader": "^0.10.3",
     "formidable": "^1.2.1",
